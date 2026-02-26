@@ -16,4 +16,3 @@ Supports full CRUD and proximity (nearby) search using the Haversine formula + b
 - Pydantic (validation & serialization)
 - SQLite (via built-in `sqlite3`)
 
-## Project Structure
